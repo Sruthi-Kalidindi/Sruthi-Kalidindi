@@ -25,42 +25,26 @@
 
 ---
 
-## ⚡ Data Engineering & Analytics Stack
+## <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> Tech Stack
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="8">
-    <img src="https://skillicons.dev/icons?i=python" height="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/spark/apache-spark-original.svg" height="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/hadoop/apache-hadoop-original.svg" height="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/airflow/apache-airflow-original.svg" height="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55"/>
-    <img src="https://img.icons8.com/color/96/power-bi.png" height="55"/>
-    <img src="https://img.icons8.com/color/96/tableau-software.png" height="55"/>
-    <img src="https://img.icons8.com/color/96/sap.png" height="55"/>
-    <img src="https://img.icons8.com/color/96/snowflake.png" height="55"/>
-  </marquee>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Python+%7C+PySpark+%7C+SQL;Azure+%7C+Azure+Data+Factory+%7C+Synapse+%7C+Databricks;ADLS+%7C+Azure+Blob+Storage;Apache+Airflow+%7C+Hadoop+%7C+Oozie+%7C+Big+Data;Snowflake+%7C+Power+BI+%7C+Tableau+%7C+SAP+Analytics+Cloud;GitHub" />
 </p>
 
 <p align="center">
-  <marquee behavior="scroll" direction="right" scrollamount="6">
-    <img src="https://img.icons8.com/color/96/azure-1.png" height="55"/>
-    <img src="https://img.icons8.com/color/96/data-configuration.png" height="55"/>
-    <img src="https://img.icons8.com/color/96/database.png" height="55"/>
-    <img src="https://img.icons8.com/color/96/workflow.png" height="55"/>
-  </marquee>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sruthi-Kalidindi&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sruthi-Kalidindi&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,azure,github" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sruthi-Kalidindi&theme=tokyonight" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/spark/apache-spark-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/airflow/apache-airflow-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/hadoop/apache-hadoop-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" height="55" />
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="55" />
+  <img src="https://img.icons8.com/color/96/tableau-software.png" height="55" />
+  <img src="https://img.icons8.com/color/96/sap.png" height="55" />
 </p>
