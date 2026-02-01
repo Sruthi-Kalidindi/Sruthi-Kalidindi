@@ -18,45 +18,49 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I work on: Azure Data Factory, Databricks (PySpark), Delta Lake
-- 🧠 Currently learning: GenAI / LLMs
-- 💬 Ask me about: data pipelines, performance tuning, incremental loads
-- 📫 Reach me: yourmail@example.com
+- 🔭 I work on: Azure Data Factory, Databricks (PySpark), Delta Lake  
+- 🧠 Currently learning: GenAI / LLMs  
+- 💬 Ask me about: Data pipelines, performance tuning, incremental loads  
+- 📫 Reach me: sruthi.kalidindi@gmail.com  
 
 ---
 
-## 🧰 Tech Stack
-
-<h2 align="center">⚡ Data Engineering & Analytics Stack</h2>
+## ⚡ Data Engineering & Analytics Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,azure" />
+  <marquee behavior="scroll" direction="left" scrollamount="8">
+    <img src="https://skillicons.dev/icons?i=python" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/spark/apache-spark-original.svg" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/hadoop/apache-hadoop-original.svg" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/airflow/apache-airflow-original.svg" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55"/>
+    <img src="https://img.icons8.com/color/96/power-bi.png" height="55"/>
+    <img src="https://img.icons8.com/color/96/tableau-software.png" height="55"/>
+    <img src="https://img.icons8.com/color/96/sap.png" height="55"/>
+    <img src="https://img.icons8.com/color/96/snowflake.png" height="55"/>
+  </marquee>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Data%20Lake%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop%20%26%20Big%20Data-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache%20Oozie-0A6C74?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <marquee behavior="scroll" direction="right" scrollamount="6">
+    <img src="https://img.icons8.com/color/96/azure-1.png" height="55"/>
+    <img src="https://img.icons8.com/color/96/data-configuration.png" height="55"/>
+    <img src="https://img.icons8.com/color/96/database.png" height="55"/>
+    <img src="https://img.icons8.com/color/96/workflow.png" height="55"/>
+  </marquee>
 </p>
 
 ---
 
-## 📊 GitHub Stats (Optional)
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sruthi-Kalidindi&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sruthi-Kalidindi&layout=compact" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sruthi-Kalidindi&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sruthi-Kalidindi&layout=compact&theme=tokyonight" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Sruthi-Kalidindi" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sruthi-Kalidindi&theme=tokyonight" />
 </p>
